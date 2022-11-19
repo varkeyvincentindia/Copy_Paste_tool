@@ -1,5 +1,5 @@
 # Copy_Paste_tool
-This is a python script that does the 'CTRL + v'.   
+Some text boxes doesn't allow users to paste the text. To resolve this issue this tool was developed. This is a python script that does the 'CTRL + v'.   
 This is an app/software that can simulate key presses. This app reads text from the user and it (after a sleep time) starts typing it. (sends out real keyboard interrupts of the key stroke)
 of the key stroke)
 
