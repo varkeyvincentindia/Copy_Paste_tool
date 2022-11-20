@@ -4,7 +4,8 @@ This is an app/software that can simulate key presses. This app reads text from 
 of the key stroke)
 
 ## How this works:
-User enters text to the app UI ---> App reads each characters and finds it’s corresponding keyboard hex code ---> This corresponding hex codes are sent out as keyboard interrupts. And the characters are displayed where the cursor is placed
+User enters text to the app UI **--->** App reads each characters and finds it’s corresponding keyboard hex code **--->** This corresponding hex codes are sent out as keyboard interrupts. And the characters are displayed where the cursor is placed
+![alt text](image_of_copy_paste_tool_git.png)
 
 
 
